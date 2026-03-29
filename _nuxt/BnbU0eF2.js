@@ -1,0 +1,1 @@
+import{d as r,o,c as n,r as s,n as d}from"./DPsR8qwu.js";const t=r({__name:"UiCard",props:{padding:{type:Boolean,default:!0}},setup(e){return(a,c)=>(o(),n("div",{class:d(["rounded-xl border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 shadow-sm",e.padding?"p-4":""])},[s(a.$slots,"default")],2))}}),p=Object.assign(t,{__name:"UiCard"});export{p as _};
