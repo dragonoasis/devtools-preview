@@ -1,0 +1,58 @@
+# Souus Tools
+
+> Free online developer tools. Encode, decode, format, convert, hash, and more — all running in your browser with no sign-up required.
+
+## Tools
+
+### Encoding & Decoding
+- [Base64 String Encoder & Decoder](/base64-string-converter): Encode and decode Base64 strings. Supports standard and URL-safe mode.
+- [Base64 File Converter](/base64-file-converter): Convert files to Base64 and Base64 back to files. Supports images, PDFs, and any binary file.
+- [URL Encoder & Decoder](/url-encoder-decoder): Encode and decode URLs. Supports encodeURIComponent and encodeURI modes.
+- [HTML Entity Encoder & Decoder](/html-entity-encoder-decoder): Encode and decode HTML entities. Escape special characters to prevent XSS.
+
+### Hashing & Encryption
+- [SHA Hash & HMAC Generator](/hash-hmac-generator): Generate SHA-1, SHA-256, SHA-384, SHA-512 hashes and HMAC signatures.
+- [Bcrypt Hash Generator & Verifier](/bcrypt-hash-generator): Generate and verify bcrypt password hashes with adjustable cost factor.
+- [AES Encryption & Decryption](/encryption-decryption): Encrypt and decrypt text with AES-GCM or AES-CBC. PBKDF2 key derivation.
+- [Secure Password Generator](/password-generator): Generate strong random passwords with customizable length and character sets.
+- [UUID v4 & v7 Generator](/uuid-ulid-generator): Generate UUID v4 (random) and UUID v7 (timestamp-based) identifiers in bulk.
+
+### Data Formats
+- [JSON Formatter & Viewer](/json-formatter-viewer): Format, prettify, minify, and validate JSON. Adjust indentation and sort keys.
+- [Data Format Converter](/data-format-converter): Convert between JSON, YAML, TOML, and CSV.
+- [JSON Schema Generator & Validator](/json-schema-generator-validator): Generate JSON Schema from sample data or validate JSON against a schema.
+
+### Web & Auth
+- [JWT & Bearer Token Inspector](/jwt-bearer-inspector): Decode JWT headers, payloads, and check expiration claims.
+- [OAuth2 Token Debugger](/oauth2-token-debugger): Decode JWT access tokens and parse OAuth2 authorization URLs.
+- [SAML Response Decoder](/saml-decoder): Decode Base64-encoded SAML responses and format the XML output.
+- [Basic Auth Generator & Decoder](/basic-auth-generator-decoder): Create HTTP Basic Authorization headers or decode existing headers.
+- [HTTP Status Codes Reference](/http-status-codes): Browse all HTTP response status codes with descriptions and categories.
+- [URL Parser](/url-parser): Break down any URL into protocol, hostname, port, path, query parameters, and hash.
+- [QR Code Generator & Reader](/qr-code-generator-reader): Create QR codes from text or URLs and decode QR codes from images.
+- [OG Meta Tag Preview](/og-meta-tag-preview): Preview how pages look on Google, Facebook, Twitter, and LinkedIn.
+- [HTTP Request Builder](/http-request-builder): Build API requests visually and generate curl, fetch, and axios code snippets.
+- [Cookie Parser](/cookie-parser): Parse Set-Cookie headers and document.cookie strings.
+- [CORS Header Checker](/cors-header-checker): Validate Access-Control headers and diagnose cross-origin issues.
+
+### Development
+- [Regex Tester & Debugger](/regex-tester): Match, replace, and debug regular expressions with capture group support.
+- [Text Diff Viewer](/diff-viewer): Compare two texts side by side or in unified format.
+- [Crontab Generator & Explainer](/crontab-generator-explainer): Build cron schedules or get plain-English descriptions of cron expressions.
+- [Unix Timestamp Converter](/unix-timestamp-converter): Convert between epoch timestamps and human-readable dates.
+- [Color Converter & Picker](/color-converter-picker): Convert between HEX, RGB, and HSL with a visual color picker.
+- [Text Case & Format Converter](/text-case-format-converter): Transform text between camelCase, snake_case, PascalCase, kebab-case, and more.
+- [Docker Run to Compose Converter](/docker-run-to-compose): Convert docker run commands to docker-compose.yml YAML.
+- [Chmod Permission Calculator](/chmod-calculator): Calculate Unix file permissions in octal and symbolic notation.
+- [Lorem Ipsum Generator](/lorem-ipsum-generator): Generate placeholder text by paragraphs, sentences, or words.
+- [CSS Unit Converter](/css-unit-converter): Convert between px, rem, em, pt, vw, and vh.
+- [URL Slug Generator](/slug-url-slug-generator): Convert text to SEO-friendly, URL-safe slugs.
+
+## About
+
+Souus Tools is a collection of free online utilities for software developers.
+All tools run client-side in the browser. No data is sent to any server.
+Built with Nuxt 3, Vue 3, and UnoCSS. Fully static (SSG), SEO-friendly, and multilingual (English, Chinese).
+
+Website: https://souus.tools
+GitHub: https://github.com/user/devtools-hub
