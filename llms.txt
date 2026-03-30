@@ -54,5 +54,5 @@ Souus Tools is a collection of free online utilities for software developers.
 All tools run client-side in the browser. No data is sent to any server.
 Built with Nuxt 3, Vue 3, and UnoCSS. Fully static (SSG), SEO-friendly, and multilingual (English, Chinese).
 
-Website: https://souus.tools
+Website: https://toolbox.souus.com
 GitHub: https://github.com/user/devtools-hub

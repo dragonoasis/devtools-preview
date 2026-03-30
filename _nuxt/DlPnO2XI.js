@@ -1,0 +1,1 @@
+import{u as l}from"./CK3sEDda.js";import{d as s}from"./C0XzcZgm.js";function f(){const{copy:u,isSupported:t}=l(),e=s(!1);let r=null;async function a(o){if(!t.value)return!1;try{return await u(o),e.value=!0,r&&clearTimeout(r),r=setTimeout(()=>{e.value=!1},2e3),!0}catch{return e.value=!1,!1}}return{copy:a,copied:e,isSupported:t}}export{f as u};
