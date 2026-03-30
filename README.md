@@ -8,7 +8,7 @@
 
 ## What is Souus Tools?
 
-Souus Tools is a collection of **70+ free, open-source developer tools** that run entirely in your browser. No sign-up, no tracking, no server-side processing — your data never leaves your device.
+Souus Tools is a collection of **80+ free, open-source developer tools** that run entirely in your browser. No sign-up, no tracking, no server-side processing — your data never leaves your device.
 
 ## Features
 
@@ -19,9 +19,9 @@ Souus Tools is a collection of **70+ free, open-source developer tools** that ru
 - **Dark Mode** — Automatic and manual dark/light theme switching.
 - **Completely Free** — Open source and free to use.
 
-## Available Tools (73)
+## Available Tools (81)
 
-### Crypto & Hash (8)
+### Crypto & Hash (10)
 - SHA Hash & HMAC Generator
 - Secure Password Generator
 - UUID v4 & v7 Generator
@@ -30,6 +30,8 @@ Souus Tools is a collection of **70+ free, open-source developer tools** that ru
 - TOTP Authenticator (2FA Code Generator)
 - Ed25519 SSH Key Generator
 - BIP39 Mnemonic Generator
+- X.509 Certificate Decoder
+- PGP Encryption & Decryption
 
 ### Encoders & Converters (7)
 - Base64 String Encoder & Decoder
@@ -58,7 +60,7 @@ Souus Tools is a collection of **70+ free, open-source developer tools** that ru
 - robots.txt & Sitemap Validator
 - OpenAPI / Swagger Viewer
 
-### Development (21)
+### Development (24)
 - Regex Tester & Debugger
 - Unix Timestamp Converter
 - Date-Time Converter with Timezone Support
@@ -83,21 +85,26 @@ Souus Tools is a collection of **70+ free, open-source developer tools** that ru
 - Tailwind CSS Class Sorter
 - Benchmark Builder
 - ETA Calculator
+- Code Formatter (Prettier)
+- Mermaid Live Editor
+- GraphQL Playground
 
-### Data Formats (5)
+### Data Formats (6)
 - JSON Formatter & Viewer
 - Data Format Converter (JSON/YAML/TOML/CSV)
 - JSON Schema Generator & Validator
 - CSV Viewer & Editor
 - SQL Formatter & Beautifier
+- Protobuf to JSON Converter
 
-### Text & Markup (6)
+### Text & Markup (7)
 - Markdown Preview & Editor
 - Markdown Table Generator
 - ASCII Text Drawer / Art Generator
 - Emoji Picker & Search
 - Email Normalizer
 - Unicode Character Lookup
+- HTML WYSIWYG Editor
 
 ### Network (1)
 - CIDR Calculator & Subnet Visualizer
@@ -109,10 +116,11 @@ Souus Tools is a collection of **70+ free, open-source developer tools** that ru
 - Unit Converter
 - Chronometer / Stopwatch & Timer
 
-### Images & Media (3)
+### Images & Media (4)
 - Image/Color Placeholder Generator
 - Favicon Generator
 - Camera Recorder
+- SVG Optimizer & Viewer
 
 ## Tech Stack
 
