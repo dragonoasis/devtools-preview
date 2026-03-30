@@ -13,6 +13,12 @@
         <xhtml:link rel="alternate" hreflang="x-default" href="https://souus.tools/devtools-preview/about" />
     </url>
     <url>
+        <loc>https://souus.tools/devtools-preview/ascii-text-drawer</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ascii-text-drawer" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ascii-text-drawer" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/ascii-text-drawer" hreflang="zh-CN" />
+    </url>
+    <url>
         <loc>https://souus.tools/devtools-preview/base64-file-converter</loc>
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/base64-file-converter" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/base64-file-converter" hreflang="en-US" />
@@ -32,15 +38,21 @@
     </url>
     <url>
         <loc>https://souus.tools/devtools-preview/bcrypt-hash-generator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/bcrypt-hash-generator" hreflang="zh-CN" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/bcrypt-hash-generator" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/bcrypt-hash-generator" hreflang="en-US" />
-        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/bcrypt-hash-generator" hreflang="zh-CN" />
     </url>
     <url>
         <loc>https://souus.tools/devtools-preview/chmod-calculator</loc>
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/chmod-calculator" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/chmod-calculator" hreflang="en-US" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/chmod-calculator" hreflang="zh-CN" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/cidr-calculator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/cidr-calculator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/cidr-calculator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/cidr-calculator" hreflang="zh-CN" />
     </url>
     <url>
         <loc>https://souus.tools/devtools-preview/color-converter-picker</loc>
@@ -56,9 +68,9 @@
     </url>
     <url>
         <loc>https://souus.tools/devtools-preview/cors-header-checker</loc>
-        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/cors-header-checker" hreflang="zh-CN" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/cors-header-checker" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/cors-header-checker" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/cors-header-checker" hreflang="zh-CN" />
     </url>
     <url>
         <loc>https://souus.tools/devtools-preview/crontab-generator-explainer</loc>
@@ -73,10 +85,28 @@
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/css-unit-converter" hreflang="zh-CN" />
     </url>
     <url>
+        <loc>https://souus.tools/devtools-preview/csv-viewer-editor</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/csv-viewer-editor" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/csv-viewer-editor" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/csv-viewer-editor" hreflang="zh-CN" />
+    </url>
+    <url>
         <loc>https://souus.tools/devtools-preview/data-format-converter</loc>
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/data-format-converter" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/data-format-converter" hreflang="en-US" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/data-format-converter" hreflang="zh-CN" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/date-time-converter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/date-time-converter" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/date-time-converter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/date-time-converter" hreflang="en-US" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/device-information</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/device-information" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/device-information" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/device-information" hreflang="zh-CN" />
     </url>
     <url>
         <loc>https://souus.tools/devtools-preview/devtools-preview</loc>
@@ -85,21 +115,51 @@
     </url>
     <url>
         <loc>https://souus.tools/devtools-preview/diff-viewer</loc>
-        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/diff-viewer" hreflang="zh-CN" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/diff-viewer" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/diff-viewer" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/diff-viewer" hreflang="zh-CN" />
     </url>
     <url>
         <loc>https://souus.tools/devtools-preview/docker-run-to-compose</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/docker-run-to-compose" hreflang="zh-CN" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/docker-run-to-compose" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/docker-run-to-compose" hreflang="en-US" />
-        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/docker-run-to-compose" hreflang="zh-CN" />
     </url>
     <url>
         <loc>https://souus.tools/devtools-preview/encryption-decryption</loc>
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/encryption-decryption" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/encryption-decryption" hreflang="en-US" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/encryption-decryption" hreflang="zh-CN" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/env-yaml-json-converter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/env-yaml-json-converter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/env-yaml-json-converter" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/env-yaml-json-converter" hreflang="zh-CN" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/fake-data-generator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/fake-data-generator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/fake-data-generator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/fake-data-generator" hreflang="zh-CN" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/filetime-ldap-timestamp-converter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/filetime-ldap-timestamp-converter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/filetime-ldap-timestamp-converter" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/filetime-ldap-timestamp-converter" hreflang="zh-CN" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/git-cheatsheet</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/git-cheatsheet" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/git-cheatsheet" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/git-cheatsheet" hreflang="zh-CN" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/git-commit-message-generator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/git-commit-message-generator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/git-commit-message-generator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/git-commit-message-generator" hreflang="zh-CN" />
     </url>
     <url>
         <loc>https://souus.tools/devtools-preview/hash-hmac-generator</loc>
@@ -114,6 +174,12 @@
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/html-entity-encoder-decoder" hreflang="zh-CN" />
     </url>
     <url>
+        <loc>https://souus.tools/devtools-preview/http-header-parser</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/http-header-parser" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/http-header-parser" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/http-header-parser" hreflang="zh-CN" />
+    </url>
+    <url>
         <loc>https://souus.tools/devtools-preview/http-request-builder</loc>
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/http-request-builder" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/http-request-builder" hreflang="en-US" />
@@ -124,6 +190,12 @@
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/http-status-codes" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/http-status-codes" hreflang="en-US" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/http-status-codes" hreflang="zh-CN" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/image-placeholder-generator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/image-placeholder-generator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/image-placeholder-generator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/image-placeholder-generator" hreflang="zh-CN" />
     </url>
     <url>
         <loc>https://souus.tools/devtools-preview/json-formatter-viewer</loc>
@@ -150,6 +222,30 @@
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/lorem-ipsum-generator" hreflang="zh-CN" />
     </url>
     <url>
+        <loc>https://souus.tools/devtools-preview/markdown-preview-editor</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/markdown-preview-editor" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/markdown-preview-editor" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/markdown-preview-editor" hreflang="en-US" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/markdown-table-generator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/markdown-table-generator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/markdown-table-generator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/markdown-table-generator" hreflang="zh-CN" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/nginx-config-generator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/nginx-config-generator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/nginx-config-generator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/nginx-config-generator" hreflang="zh-CN" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/number-base-converter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/number-base-converter" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/number-base-converter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/number-base-converter" hreflang="en-US" />
+    </url>
+    <url>
         <loc>https://souus.tools/devtools-preview/oauth2-token-debugger</loc>
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/oauth2-token-debugger" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/oauth2-token-debugger" hreflang="en-US" />
@@ -169,6 +265,12 @@
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/password-generator" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/password-generator" hreflang="en-US" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/password-generator" hreflang="zh-CN" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/percentage-calculator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/percentage-calculator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/percentage-calculator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/percentage-calculator" hreflang="zh-CN" />
     </url>
     <url>
         <loc>https://souus.tools/devtools-preview/qr-code-generator-reader</loc>
@@ -195,10 +297,22 @@
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/slug-url-slug-generator" hreflang="zh-CN" />
     </url>
     <url>
+        <loc>https://souus.tools/devtools-preview/sql-formatter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/sql-formatter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/sql-formatter" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/sql-formatter" hreflang="zh-CN" />
+    </url>
+    <url>
         <loc>https://souus.tools/devtools-preview/text-case-format-converter</loc>
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/text-case-format-converter" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/text-case-format-converter" hreflang="en-US" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/text-case-format-converter" hreflang="zh-CN" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/unit-converter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/unit-converter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/unit-converter" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/unit-converter" hreflang="zh-CN" />
     </url>
     <url>
         <loc>https://souus.tools/devtools-preview/unix-timestamp-converter</loc>
@@ -230,6 +344,11 @@
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh" hreflang="en-US" />
     </url>
     <url>
+        <loc>https://souus.tools/devtools-preview/zh/ascii-text-drawer</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/ascii-text-drawer" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/ascii-text-drawer" hreflang="en-US" />
+    </url>
+    <url>
         <loc>https://souus.tools/devtools-preview/zh/base64-file-converter</loc>
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/base64-file-converter" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/base64-file-converter" hreflang="en-US" />
@@ -253,6 +372,11 @@
         <loc>https://souus.tools/devtools-preview/zh/chmod-calculator</loc>
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/chmod-calculator" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/chmod-calculator" hreflang="en-US" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/zh/cidr-calculator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/cidr-calculator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/cidr-calculator" hreflang="en-US" />
     </url>
     <url>
         <loc>https://souus.tools/devtools-preview/zh/color-converter-picker</loc>
@@ -280,9 +404,24 @@
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/css-unit-converter" hreflang="en-US" />
     </url>
     <url>
+        <loc>https://souus.tools/devtools-preview/zh/csv-viewer-editor</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/csv-viewer-editor" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/csv-viewer-editor" hreflang="en-US" />
+    </url>
+    <url>
         <loc>https://souus.tools/devtools-preview/zh/data-format-converter</loc>
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/data-format-converter" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/data-format-converter" hreflang="en-US" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/zh/date-time-converter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/date-time-converter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/date-time-converter" hreflang="en-US" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/zh/device-information</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/device-information" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/device-information" hreflang="en-US" />
     </url>
     <url>
         <loc>https://souus.tools/devtools-preview/zh/diff-viewer</loc>
@@ -300,6 +439,31 @@
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/encryption-decryption" hreflang="en-US" />
     </url>
     <url>
+        <loc>https://souus.tools/devtools-preview/zh/env-yaml-json-converter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/env-yaml-json-converter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/env-yaml-json-converter" hreflang="en-US" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/zh/fake-data-generator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/fake-data-generator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/fake-data-generator" hreflang="en-US" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/zh/filetime-ldap-timestamp-converter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/filetime-ldap-timestamp-converter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/filetime-ldap-timestamp-converter" hreflang="en-US" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/zh/git-cheatsheet</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/git-cheatsheet" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/git-cheatsheet" hreflang="en-US" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/zh/git-commit-message-generator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/git-commit-message-generator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/git-commit-message-generator" hreflang="en-US" />
+    </url>
+    <url>
         <loc>https://souus.tools/devtools-preview/zh/hash-hmac-generator</loc>
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/hash-hmac-generator" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/hash-hmac-generator" hreflang="en-US" />
@@ -310,6 +474,11 @@
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/html-entity-encoder-decoder" hreflang="en-US" />
     </url>
     <url>
+        <loc>https://souus.tools/devtools-preview/zh/http-header-parser</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/http-header-parser" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/http-header-parser" hreflang="en-US" />
+    </url>
+    <url>
         <loc>https://souus.tools/devtools-preview/zh/http-request-builder</loc>
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/http-request-builder" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/http-request-builder" hreflang="en-US" />
@@ -318,6 +487,11 @@
         <loc>https://souus.tools/devtools-preview/zh/http-status-codes</loc>
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/http-status-codes" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/http-status-codes" hreflang="en-US" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/zh/image-placeholder-generator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/image-placeholder-generator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/image-placeholder-generator" hreflang="en-US" />
     </url>
     <url>
         <loc>https://souus.tools/devtools-preview/zh/json-formatter-viewer</loc>
@@ -340,6 +514,26 @@
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/lorem-ipsum-generator" hreflang="en-US" />
     </url>
     <url>
+        <loc>https://souus.tools/devtools-preview/zh/markdown-preview-editor</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/markdown-preview-editor" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/markdown-preview-editor" hreflang="en-US" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/zh/markdown-table-generator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/markdown-table-generator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/markdown-table-generator" hreflang="en-US" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/zh/nginx-config-generator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/nginx-config-generator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/nginx-config-generator" hreflang="en-US" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/zh/number-base-converter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/number-base-converter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/number-base-converter" hreflang="en-US" />
+    </url>
+    <url>
         <loc>https://souus.tools/devtools-preview/zh/oauth2-token-debugger</loc>
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/oauth2-token-debugger" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/oauth2-token-debugger" hreflang="en-US" />
@@ -356,6 +550,11 @@
         <loc>https://souus.tools/devtools-preview/zh/password-generator</loc>
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/password-generator" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/password-generator" hreflang="en-US" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/zh/percentage-calculator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/percentage-calculator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/percentage-calculator" hreflang="en-US" />
     </url>
     <url>
         <loc>https://souus.tools/devtools-preview/zh/qr-code-generator-reader</loc>
@@ -378,9 +577,19 @@
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/slug-url-slug-generator" hreflang="en-US" />
     </url>
     <url>
+        <loc>https://souus.tools/devtools-preview/zh/sql-formatter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/sql-formatter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/sql-formatter" hreflang="en-US" />
+    </url>
+    <url>
         <loc>https://souus.tools/devtools-preview/zh/text-case-format-converter</loc>
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/text-case-format-converter" hreflang="x-default" />
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/text-case-format-converter" hreflang="en-US" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/zh/unit-converter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/unit-converter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/unit-converter" hreflang="en-US" />
     </url>
     <url>
         <loc>https://souus.tools/devtools-preview/zh/unix-timestamp-converter</loc>
@@ -403,4 +612,4 @@
         <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/uuid-ulid-generator" hreflang="en-US" />
     </url>
 </urlset>
-<!-- XML Sitemap generated by @nuxtjs/sitemap v8.0.9 at 2026-03-29T20:50:13.473Z -->
+<!-- XML Sitemap generated by @nuxtjs/sitemap v8.0.9 at 2026-03-30T00:06:03.675Z -->
