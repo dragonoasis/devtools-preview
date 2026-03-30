@@ -1,0 +1,837 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/devtools-preview/__sitemap__/style.xsl"?>
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR</loc>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://souus.tools/devtools-preview" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://souus.tools/devtools-preview/zh" />
+        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://souus.tools/devtools-preview/ja" />
+        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://souus.tools/devtools-preview/ko" />
+        <xhtml:link rel="alternate" hreflang="de-DE" href="https://souus.tools/devtools-preview/de" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://souus.tools/devtools-preview/pt-BR" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://souus.tools/devtools-preview" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/about</loc>
+        <xhtml:link rel="alternate" hreflang="en-US" href="https://souus.tools/devtools-preview/about" />
+        <xhtml:link rel="alternate" hreflang="zh-CN" href="https://souus.tools/devtools-preview/zh/about" />
+        <xhtml:link rel="alternate" hreflang="ja-JP" href="https://souus.tools/devtools-preview/ja/about" />
+        <xhtml:link rel="alternate" hreflang="ko-KR" href="https://souus.tools/devtools-preview/ko/about" />
+        <xhtml:link rel="alternate" hreflang="de-DE" href="https://souus.tools/devtools-preview/de/about" />
+        <xhtml:link rel="alternate" hreflang="pt-BR" href="https://souus.tools/devtools-preview/pt-BR/about" />
+        <xhtml:link rel="alternate" hreflang="x-default" href="https://souus.tools/devtools-preview/about" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/ascii-text-drawer</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ascii-text-drawer" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ascii-text-drawer" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/ascii-text-drawer" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/ascii-text-drawer" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/ascii-text-drawer" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/ascii-text-drawer" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/ascii-text-drawer" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/base64-file-converter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/base64-file-converter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/base64-file-converter" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/base64-file-converter" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/base64-file-converter" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/base64-file-converter" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/base64-file-converter" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/base64-file-converter" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/base64-string-converter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/base64-string-converter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/base64-string-converter" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/base64-string-converter" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/base64-string-converter" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/base64-string-converter" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/base64-string-converter" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/base64-string-converter" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/basic-auth-generator-decoder</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/basic-auth-generator-decoder" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/basic-auth-generator-decoder" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/basic-auth-generator-decoder" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/basic-auth-generator-decoder" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/basic-auth-generator-decoder" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/basic-auth-generator-decoder" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/basic-auth-generator-decoder" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/bcrypt-hash-generator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/bcrypt-hash-generator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/bcrypt-hash-generator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/bcrypt-hash-generator" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/bcrypt-hash-generator" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/bcrypt-hash-generator" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/bcrypt-hash-generator" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/bcrypt-hash-generator" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/benchmark-builder</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/benchmark-builder" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/benchmark-builder" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/benchmark-builder" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/benchmark-builder" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/benchmark-builder" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/benchmark-builder" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/benchmark-builder" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/bip39-mnemonic-generator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/bip39-mnemonic-generator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/bip39-mnemonic-generator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/bip39-mnemonic-generator" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/bip39-mnemonic-generator" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/bip39-mnemonic-generator" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/bip39-mnemonic-generator" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/bip39-mnemonic-generator" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/camera-recorder</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/camera-recorder" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/camera-recorder" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/camera-recorder" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/camera-recorder" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/camera-recorder" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/camera-recorder" hreflang="pt-BR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/camera-recorder" hreflang="de-DE" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/certificate-decoder</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/certificate-decoder" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/certificate-decoder" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/certificate-decoder" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/certificate-decoder" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/certificate-decoder" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/certificate-decoder" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/certificate-decoder" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/chmod-calculator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/chmod-calculator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/chmod-calculator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/chmod-calculator" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/chmod-calculator" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/chmod-calculator" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/chmod-calculator" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/chmod-calculator" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/chronometer</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/chronometer" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/chronometer" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/chronometer" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/chronometer" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/chronometer" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/chronometer" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/chronometer" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/cidr-calculator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/cidr-calculator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/cidr-calculator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/cidr-calculator" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/cidr-calculator" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/cidr-calculator" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/cidr-calculator" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/cidr-calculator" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/code-formatter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/code-formatter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/code-formatter" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/code-formatter" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/code-formatter" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/code-formatter" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/code-formatter" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/code-formatter" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/color-contrast-checker</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/color-contrast-checker" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/color-contrast-checker" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/color-contrast-checker" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/color-contrast-checker" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/color-contrast-checker" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/color-contrast-checker" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/color-contrast-checker" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/color-converter-picker</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/color-converter-picker" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/color-converter-picker" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/color-converter-picker" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/color-converter-picker" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/color-converter-picker" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/color-converter-picker" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/color-converter-picker" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/color-space-extended</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/color-space-extended" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/color-space-extended" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/color-space-extended" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/color-space-extended" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/color-space-extended" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/color-space-extended" hreflang="pt-BR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/color-space-extended" hreflang="de-DE" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/cookie-parser</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/cookie-parser" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/cookie-parser" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/cookie-parser" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/cookie-parser" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/cookie-parser" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/cookie-parser" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/cookie-parser" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/cors-header-checker</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/cors-header-checker" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/cors-header-checker" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/cors-header-checker" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/cors-header-checker" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/cors-header-checker" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/cors-header-checker" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/cors-header-checker" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/crontab-generator-explainer</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/crontab-generator-explainer" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/crontab-generator-explainer" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/crontab-generator-explainer" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/crontab-generator-explainer" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/crontab-generator-explainer" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/crontab-generator-explainer" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/crontab-generator-explainer" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/csp-header-builder</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/csp-header-builder" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/csp-header-builder" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/csp-header-builder" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/csp-header-builder" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/csp-header-builder" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/csp-header-builder" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/csp-header-builder" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/css-unit-converter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/css-unit-converter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/css-unit-converter" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/css-unit-converter" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/css-unit-converter" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/css-unit-converter" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/css-unit-converter" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/css-unit-converter" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/csv-viewer-editor</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/csv-viewer-editor" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/csv-viewer-editor" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/csv-viewer-editor" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/csv-viewer-editor" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/csv-viewer-editor" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/csv-viewer-editor" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/csv-viewer-editor" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/data-format-converter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/data-format-converter" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/data-format-converter" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/data-format-converter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/data-format-converter" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/data-format-converter" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/data-format-converter" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/data-format-converter" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/date-time-converter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/date-time-converter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/date-time-converter" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/date-time-converter" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/date-time-converter" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/date-time-converter" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/date-time-converter" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/date-time-converter" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/device-information</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/device-information" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/device-information" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/device-information" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/device-information" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/device-information" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/device-information" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/device-information" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/diff-viewer</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/diff-viewer" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/diff-viewer" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/diff-viewer" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/diff-viewer" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/diff-viewer" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/diff-viewer" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/diff-viewer" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/docker-run-to-compose</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/docker-run-to-compose" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/docker-run-to-compose" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/docker-run-to-compose" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/docker-run-to-compose" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/docker-run-to-compose" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/docker-run-to-compose" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/docker-run-to-compose" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/dockerfile-linter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/dockerfile-linter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/dockerfile-linter" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/dockerfile-linter" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/dockerfile-linter" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/dockerfile-linter" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/dockerfile-linter" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/dockerfile-linter" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/ed25519-ssh-key-generator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ed25519-ssh-key-generator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ed25519-ssh-key-generator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/ed25519-ssh-key-generator" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/ed25519-ssh-key-generator" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/ed25519-ssh-key-generator" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/ed25519-ssh-key-generator" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/ed25519-ssh-key-generator" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/email-normalizer</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/email-normalizer" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/email-normalizer" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/email-normalizer" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/email-normalizer" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/email-normalizer" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/email-normalizer" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/email-normalizer" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/emoji-picker</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/emoji-picker" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/emoji-picker" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/emoji-picker" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/emoji-picker" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/emoji-picker" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/emoji-picker" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/emoji-picker" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/encryption-decryption</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/encryption-decryption" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/encryption-decryption" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/encryption-decryption" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/encryption-decryption" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/encryption-decryption" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/encryption-decryption" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/encryption-decryption" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/env-yaml-json-converter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/env-yaml-json-converter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/env-yaml-json-converter" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/env-yaml-json-converter" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/env-yaml-json-converter" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/env-yaml-json-converter" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/env-yaml-json-converter" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/env-yaml-json-converter" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/eta-calculator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/eta-calculator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/eta-calculator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/eta-calculator" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/eta-calculator" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/eta-calculator" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/eta-calculator" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/eta-calculator" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/fake-data-generator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/fake-data-generator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/fake-data-generator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/fake-data-generator" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/fake-data-generator" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/fake-data-generator" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/fake-data-generator" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/fake-data-generator" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/favicon-generator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/favicon-generator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/favicon-generator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/favicon-generator" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/favicon-generator" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/favicon-generator" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/favicon-generator" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/favicon-generator" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/figma-token-converter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/figma-token-converter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/figma-token-converter" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/figma-token-converter" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/figma-token-converter" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/figma-token-converter" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/figma-token-converter" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/figma-token-converter" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/filetime-ldap-timestamp-converter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/filetime-ldap-timestamp-converter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/filetime-ldap-timestamp-converter" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/filetime-ldap-timestamp-converter" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/filetime-ldap-timestamp-converter" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/filetime-ldap-timestamp-converter" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/filetime-ldap-timestamp-converter" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/filetime-ldap-timestamp-converter" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/git-cheatsheet</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/git-cheatsheet" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/git-cheatsheet" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/git-cheatsheet" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/git-cheatsheet" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/git-cheatsheet" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/git-cheatsheet" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/git-cheatsheet" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/git-commit-message-generator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/git-commit-message-generator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/git-commit-message-generator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/git-commit-message-generator" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/git-commit-message-generator" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/git-commit-message-generator" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/git-commit-message-generator" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/git-commit-message-generator" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/graphql-playground</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/graphql-playground" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/graphql-playground" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/graphql-playground" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/graphql-playground" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/graphql-playground" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/graphql-playground" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/graphql-playground" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/hash-hmac-generator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/hash-hmac-generator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/hash-hmac-generator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/hash-hmac-generator" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/hash-hmac-generator" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/hash-hmac-generator" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/hash-hmac-generator" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/hash-hmac-generator" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/html-entity-encoder-decoder</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/html-entity-encoder-decoder" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/html-entity-encoder-decoder" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/html-entity-encoder-decoder" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/html-entity-encoder-decoder" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/html-entity-encoder-decoder" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/html-entity-encoder-decoder" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/html-entity-encoder-decoder" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/html-wysiwyg-editor</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/html-wysiwyg-editor" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/html-wysiwyg-editor" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/html-wysiwyg-editor" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/html-wysiwyg-editor" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/html-wysiwyg-editor" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/html-wysiwyg-editor" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/html-wysiwyg-editor" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/http-header-parser</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/http-header-parser" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/http-header-parser" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/http-header-parser" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/http-header-parser" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/http-header-parser" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/http-header-parser" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/http-header-parser" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/http-request-builder</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/http-request-builder" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/http-request-builder" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/http-request-builder" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/http-request-builder" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/http-request-builder" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/http-request-builder" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/http-request-builder" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/http-status-codes</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/http-status-codes" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/http-status-codes" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/http-status-codes" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/http-status-codes" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/http-status-codes" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/http-status-codes" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/http-status-codes" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/image-placeholder-generator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/image-placeholder-generator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/image-placeholder-generator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/image-placeholder-generator" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/image-placeholder-generator" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/image-placeholder-generator" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/image-placeholder-generator" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/image-placeholder-generator" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/json-formatter-viewer</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/json-formatter-viewer" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/json-formatter-viewer" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/json-formatter-viewer" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/json-formatter-viewer" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/json-formatter-viewer" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/json-formatter-viewer" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/json-formatter-viewer" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/json-schema-generator-validator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/json-schema-generator-validator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/json-schema-generator-validator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/json-schema-generator-validator" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/json-schema-generator-validator" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/json-schema-generator-validator" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/json-schema-generator-validator" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/json-schema-generator-validator" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/jwt-bearer-inspector</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/jwt-bearer-inspector" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/jwt-bearer-inspector" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/jwt-bearer-inspector" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/jwt-bearer-inspector" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/jwt-bearer-inspector" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/jwt-bearer-inspector" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/jwt-bearer-inspector" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/lorem-ipsum-generator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/lorem-ipsum-generator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/lorem-ipsum-generator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/lorem-ipsum-generator" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/lorem-ipsum-generator" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/lorem-ipsum-generator" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/lorem-ipsum-generator" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/lorem-ipsum-generator" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/markdown-preview-editor</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/markdown-preview-editor" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/markdown-preview-editor" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/markdown-preview-editor" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/markdown-preview-editor" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/markdown-preview-editor" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/markdown-preview-editor" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/markdown-preview-editor" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/markdown-table-generator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/markdown-table-generator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/markdown-table-generator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/markdown-table-generator" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/markdown-table-generator" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/markdown-table-generator" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/markdown-table-generator" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/markdown-table-generator" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/mermaid-live-editor</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/mermaid-live-editor" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/mermaid-live-editor" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/mermaid-live-editor" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/mermaid-live-editor" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/mermaid-live-editor" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/mermaid-live-editor" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/mermaid-live-editor" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/nginx-config-generator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/nginx-config-generator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/nginx-config-generator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/nginx-config-generator" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/nginx-config-generator" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/nginx-config-generator" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/nginx-config-generator" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/nginx-config-generator" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/number-base-converter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/number-base-converter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/number-base-converter" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/number-base-converter" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/number-base-converter" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/number-base-converter" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/number-base-converter" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/number-base-converter" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/oauth2-token-debugger</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/oauth2-token-debugger" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/oauth2-token-debugger" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/oauth2-token-debugger" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/oauth2-token-debugger" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/oauth2-token-debugger" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/oauth2-token-debugger" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/oauth2-token-debugger" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/og-meta-tag-preview</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/og-meta-tag-preview" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/og-meta-tag-preview" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/og-meta-tag-preview" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/og-meta-tag-preview" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/og-meta-tag-preview" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/og-meta-tag-preview" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/og-meta-tag-preview" hreflang="pt-BR" />
+        <image:image>
+            <image:loc>https://placehold.co/1200x630/3b82f6/white?text=OG+Image</image:loc>
+        </image:image>
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/openapi-swagger-viewer</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/openapi-swagger-viewer" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/openapi-swagger-viewer" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/openapi-swagger-viewer" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/openapi-swagger-viewer" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/openapi-swagger-viewer" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/openapi-swagger-viewer" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/openapi-swagger-viewer" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/password-generator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/password-generator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/password-generator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/password-generator" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/password-generator" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/password-generator" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/password-generator" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/password-generator" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/percentage-calculator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/percentage-calculator" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/percentage-calculator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/percentage-calculator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/percentage-calculator" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/percentage-calculator" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/percentage-calculator" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/percentage-calculator" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/pgp-encryption-decryption</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pgp-encryption-decryption" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pgp-encryption-decryption" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/pgp-encryption-decryption" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/pgp-encryption-decryption" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/pgp-encryption-decryption" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/pgp-encryption-decryption" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/pgp-encryption-decryption" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/protobuf-json-converter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/protobuf-json-converter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/protobuf-json-converter" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/protobuf-json-converter" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/protobuf-json-converter" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/protobuf-json-converter" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/protobuf-json-converter" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/protobuf-json-converter" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/qr-code-generator-reader</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/qr-code-generator-reader" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/qr-code-generator-reader" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/qr-code-generator-reader" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/qr-code-generator-reader" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/qr-code-generator-reader" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/qr-code-generator-reader" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/qr-code-generator-reader" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/regex-tester</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/regex-tester" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/regex-tester" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/regex-tester" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/regex-tester" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/regex-tester" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/regex-tester" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/regex-tester" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/robots-txt-sitemap-validator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/robots-txt-sitemap-validator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/robots-txt-sitemap-validator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/robots-txt-sitemap-validator" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/robots-txt-sitemap-validator" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/robots-txt-sitemap-validator" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/robots-txt-sitemap-validator" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/robots-txt-sitemap-validator" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/saml-decoder</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/saml-decoder" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/saml-decoder" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/saml-decoder" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/saml-decoder" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/saml-decoder" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/saml-decoder" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/saml-decoder" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/slug-url-slug-generator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/slug-url-slug-generator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/slug-url-slug-generator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/slug-url-slug-generator" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/slug-url-slug-generator" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/slug-url-slug-generator" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/slug-url-slug-generator" hreflang="pt-BR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/slug-url-slug-generator" hreflang="de-DE" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/sql-formatter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/sql-formatter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/sql-formatter" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/sql-formatter" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/sql-formatter" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/sql-formatter" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/sql-formatter" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/sql-formatter" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/svg-optimizer</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/svg-optimizer" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/svg-optimizer" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/svg-optimizer" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/svg-optimizer" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/svg-optimizer" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/svg-optimizer" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/svg-optimizer" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/tailwind-css-class-sorter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/tailwind-css-class-sorter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/tailwind-css-class-sorter" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/tailwind-css-class-sorter" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/tailwind-css-class-sorter" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/tailwind-css-class-sorter" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/tailwind-css-class-sorter" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/tailwind-css-class-sorter" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/text-case-format-converter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/text-case-format-converter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/text-case-format-converter" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/text-case-format-converter" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/text-case-format-converter" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/text-case-format-converter" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/text-case-format-converter" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/text-case-format-converter" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/text-encoder-explorer</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/text-encoder-explorer" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/text-encoder-explorer" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/text-encoder-explorer" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/text-encoder-explorer" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/text-encoder-explorer" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/text-encoder-explorer" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/text-encoder-explorer" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/totp-authenticator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/totp-authenticator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/totp-authenticator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/totp-authenticator" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/totp-authenticator" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/totp-authenticator" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/totp-authenticator" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/totp-authenticator" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/unicode-character-lookup</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/unicode-character-lookup" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/unicode-character-lookup" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/unicode-character-lookup" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/unicode-character-lookup" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/unicode-character-lookup" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/unicode-character-lookup" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/unicode-character-lookup" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/unit-converter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/unit-converter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/unit-converter" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/unit-converter" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/unit-converter" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/unit-converter" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/unit-converter" hreflang="pt-BR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/unit-converter" hreflang="de-DE" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/unix-timestamp-converter</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/unix-timestamp-converter" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/unix-timestamp-converter" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/unix-timestamp-converter" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/unix-timestamp-converter" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/unix-timestamp-converter" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/unix-timestamp-converter" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/unix-timestamp-converter" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/url-encoder-decoder</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/url-encoder-decoder" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/url-encoder-decoder" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/url-encoder-decoder" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/url-encoder-decoder" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/url-encoder-decoder" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/url-encoder-decoder" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/url-encoder-decoder" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/url-parser</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/url-parser" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/url-parser" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/url-parser" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/url-parser" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/url-parser" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/url-parser" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/url-parser" hreflang="pt-BR" />
+    </url>
+    <url>
+        <loc>https://souus.tools/devtools-preview/pt-BR/uuid-ulid-generator</loc>
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/uuid-ulid-generator" hreflang="x-default" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/uuid-ulid-generator" hreflang="en-US" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/zh/uuid-ulid-generator" hreflang="zh-CN" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ja/uuid-ulid-generator" hreflang="ja-JP" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/ko/uuid-ulid-generator" hreflang="ko-KR" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/de/uuid-ulid-generator" hreflang="de-DE" />
+        <xhtml:link rel="alternate" href="https://souus.tools/devtools-preview/pt-BR/uuid-ulid-generator" hreflang="pt-BR" />
+    </url>
+</urlset>
+<!-- XML Sitemap generated by @nuxtjs/sitemap v8.0.9 at 2026-03-30T04:59:35.049Z -->
