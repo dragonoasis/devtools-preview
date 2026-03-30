@@ -8,35 +8,39 @@
 
 ## What is Souus Tools?
 
-Souus Tools is a collection of **50+ free, open-source developer tools** that run entirely in your browser. No sign-up, no tracking, no server-side processing — your data never leaves your device.
+Souus Tools is a collection of **70+ free, open-source developer tools** that run entirely in your browser. No sign-up, no tracking, no server-side processing — your data never leaves your device.
 
 ## Features
 
 - **100% Client-Side** — All tools run in the browser. No data is sent to any server.
 - **No Sign-Up Required** — Just open and use. No accounts, no subscriptions.
 - **Fast & Lightweight** — Static site with instant loading and offline support (PWA).
-- **Multi-Language** — Available in English and 中文.
+- **Multi-Language** — Available in English, 中文, and 日本語.
 - **Dark Mode** — Automatic and manual dark/light theme switching.
 - **Completely Free** — Open source and free to use.
 
-## Available Tools (53)
+## Available Tools (73)
 
-### Crypto & Hash (5)
+### Crypto & Hash (8)
 - SHA Hash & HMAC Generator
 - Secure Password Generator
 - UUID v4 & v7 Generator
 - Bcrypt Hash Generator & Verifier
 - AES Encryption & Decryption
+- TOTP Authenticator (2FA Code Generator)
+- Ed25519 SSH Key Generator
+- BIP39 Mnemonic Generator
 
-### Encoders & Converters (6)
+### Encoders & Converters (7)
 - Base64 String Encoder & Decoder
 - Base64 File Converter
 - URL Encoder & Decoder
 - HTML Entity Encoder & Decoder
 - Number Base Converter
 - .env / YAML / JSON Converter
+- Text Encoder Explorer
 
-### Web & Auth (10)
+### Web & Auth (11)
 - JWT & Bearer Token Inspector
 - QR Code Generator & Reader
 - URL Parser
@@ -50,18 +54,24 @@ Souus Tools is a collection of **50+ free, open-source developer tools** that ru
 - SAML Response Decoder
 - HTTP Header Parser
 - Device Information
+- CSP Header Builder
+- robots.txt & Sitemap Validator
+- OpenAPI / Swagger Viewer
 
-### Development (16)
+### Development (21)
 - Regex Tester & Debugger
 - Unix Timestamp Converter
 - Date-Time Converter with Timezone Support
 - FILETIME & LDAP Timestamp Converter
 - Color Converter & Picker
+- Color Contrast Checker
+- Color Space Extended (OKLCH/OKLab/P3/HWB)
 - Crontab Generator & Explainer
 - Text Diff Viewer & Comparator
 - Text Case & Format Converter
 - Chmod Permission Calculator
 - Docker Run to Compose Converter
+- Dockerfile Linter
 - URL Slug Generator
 - CSS Unit Converter
 - Lorem Ipsum Generator
@@ -69,6 +79,10 @@ Souus Tools is a collection of **50+ free, open-source developer tools** that ru
 - Git Commit Message Generator
 - Nginx Config Generator
 - Git Cheatsheet
+- Figma Design Token Converter
+- Tailwind CSS Class Sorter
+- Benchmark Builder
+- ETA Calculator
 
 ### Data Formats (5)
 - JSON Formatter & Viewer
@@ -77,10 +91,13 @@ Souus Tools is a collection of **50+ free, open-source developer tools** that ru
 - CSV Viewer & Editor
 - SQL Formatter & Beautifier
 
-### Text & Markup (3)
+### Text & Markup (6)
 - Markdown Preview & Editor
 - Markdown Table Generator
 - ASCII Text Drawer / Art Generator
+- Emoji Picker & Search
+- Email Normalizer
+- Unicode Character Lookup
 
 ### Network (1)
 - CIDR Calculator & Subnet Visualizer
@@ -88,11 +105,14 @@ Souus Tools is a collection of **50+ free, open-source developer tools** that ru
 ### Math (1)
 - Percentage Calculator
 
-### Measurement (1)
+### Measurement (2)
 - Unit Converter
+- Chronometer / Stopwatch & Timer
 
-### Images & Media (1)
+### Images & Media (3)
 - Image/Color Placeholder Generator
+- Favicon Generator
+- Camera Recorder
 
 ## Tech Stack
 
