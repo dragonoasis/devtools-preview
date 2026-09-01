@@ -1,1 +1,0 @@
-import{J as n,ai as r,Y as l,aj as c,ak as u,a5 as i}from"./AMDqLr7M.js";function f(){const{locale:s}=n();return(a,e=s.value)=>typeof a=="string"?r(l[a]??{slug:a},e):r(a,e)}function y(){const{locale:s}=n();return(a,e,o=s.value)=>{const t=i(o)?o:u;return c(a,e,t,u)}}export{y as a,f as u};
