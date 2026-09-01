@@ -1,0 +1,1 @@
+import{d as n,u as c,a as r,e as p,l as i}from"./Cm0spP83.js";const y=n(async l=>{let e,a;const o=l.params.slug;if(typeof o!="string"||!o)return;const t=c();if(t.value?.slug===o)return;const s=r().$i18n,u=s?typeof s.locale=="string"?s.locale:s.locale.value:"en";t.value=([e,a]=p(()=>i(o,u)),e=await e,a(),e)});export{y as default};
