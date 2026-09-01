@@ -1,0 +1,1 @@
+import{u as l}from"./29AI5lD1.js";import{t as s}from"./AMDqLr7M.js";function f(){const{copy:u,isSupported:r}=l(),e=s(!1);let t=null;async function a(o){if(!r.value)return!1;try{return await u(o),e.value=!0,t&&clearTimeout(t),t=setTimeout(()=>{e.value=!1},2e3),!0}catch{return e.value=!1,!1}}return{copy:a,copied:e,isSupported:r}}export{f as u};

@@ -1,0 +1,37 @@
+# Cloudflare Pages applies *every* matching rule, in file order. When two
+# matching rules set the same header the values are joined with a comma instead
+# of the later rule winning, so a narrower rule has to detach the header with
+# `! Cache-Control` before setting its own value. Keep `/*` first and every
+# exception after it, each one detaching before it sets. Within a single rule
+# the detach list is applied before the set list.
+
+# Every page is served at a directory URL such as /ja/json-formatter-viewer/,
+# which a `/*.html` rule never matches. With no matching rule the response falls
+# through to the Pages default of `s-maxage=604800`, so a content change can
+# take a week to reach users. `/*` matches the bare `/` as well, and covers the
+# service worker, the web manifest and Nuxt's per-route `_payload.json`.
+/*
+  Cache-Control: no-cache, no-store, must-revalidate
+
+# Fingerprinted build output: the filename changes whenever the content does.
+/_nuxt/*
+  ! Cache-Control
+  Cache-Control: public, max-age=31536000, immutable
+
+# Locale message bundles live under a per-build hash directory, but the hash is
+# not guaranteed to be derived from the message content, so these revalidate
+# rather than being pinned for a year. An unchanged bundle still costs no body
+# bytes on a conditional request.
+/_i18n/*
+  ! Cache-Control
+  Cache-Control: public, max-age=0, must-revalidate
+
+# @nuxtjs/sitemap emits /sitemap.xml as an HTML redirect stub to the real index.
+# The redirect stays so historic submissions keep resolving, but the stub itself
+# must never be indexed: it has no content and no inbound links.
+/sitemap.xml
+  X-Robots-Tag: noindex
+
+/sitemap.xml/*
+  X-Robots-Tag: noindex
+
