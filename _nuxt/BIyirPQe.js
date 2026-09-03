@@ -1,0 +1,14 @@
+import{_ as d}from"./S1XBe8XL.js";import{_ as g}from"./Bf6Dw1np.js";import{_ as h}from"./Dw9CJ9z2.js";import{_ as k}from"./m5FY6WLE.js";import{u as v}from"./DBkJBJD9.js";import{g as x,o as w,W as y,a0 as C,f as i,b as a,a3 as $,x as l,N as b,t as B,z as V}from"./DwUGk4tV.js";import"./Cnu9lElD.js";import"./CqWpXUGi.js";function N(n){const o=n.trim().replace(/^docker\s+run\s+/,"").match(/"[^"]*"|'[^']*'|\S+/g)||[],r={name:"app",image:"unknown",ports:[],volumes:[],environment:[]};let e=0;for(;e<o.length;){const t=o[e];if(t==="-d"||t==="--detach"||t==="--rm"||t==="-it"||t==="-i"||t==="-t")e++;else if(t==="--name"&&o[e+1])r.name=o[e+1],e+=2;else if((t==="-p"||t==="--publish")&&o[e+1])r.ports.push(o[e+1]),e+=2;else if(t.startsWith("-p")&&t.length>2)r.ports.push(t.slice(2)),e++;else if((t==="-v"||t==="--volume")&&o[e+1])r.volumes.push(o[e+1]),e+=2;else if((t==="-e"||t==="--env")&&o[e+1])r.environment.push(o[e+1]),e+=2;else if(t==="--restart"&&o[e+1])r.restart=o[e+1],e+=2;else if(t==="--network"&&o[e+1])r.network_mode=o[e+1],e+=2;else if((t==="-w"||t==="--workdir")&&o[e+1])r.working_dir=o[e+1],e+=2;else if(t==="--hostname"&&o[e+1])r.hostname=o[e+1],e+=2;else if(t.startsWith("-"))e+=2;else{r.image=o.slice(e).join(" ");break}}return r}function U(n){let s=`services:
+  ${n.name}:
+    image: ${n.image}
+`;if(n.restart&&(s+=`    restart: ${n.restart}
+`),n.network_mode&&(s+=`    network_mode: ${n.network_mode}
+`),n.hostname&&(s+=`    hostname: ${n.hostname}
+`),n.working_dir&&(s+=`    working_dir: ${n.working_dir}
+`),n.ports.length){s+=`    ports:
+`;for(const o of n.ports)s+=`      - "${o}"
+`}if(n.volumes.length){s+=`    volumes:
+`;for(const o of n.volumes)s+=`      - ${o}
+`}if(n.environment.length){s+=`    environment:
+`;for(const o of n.environment)s+=`      - ${o}
+`}return s}const D={class:"flex flex-col gap-4"},E={class:"flex items-center justify-between"},R={class:"text-sm font-medium text-gray-700 dark:text-gray-300"},H=x({__name:"component",setup(n){const{tt:s}=v(),o=(t,m)=>s("docker-run-to-compose",t,m),r=B("docker run -d --name my-app -p 8080:80 -p 443:443 -v /data:/app/data -e NODE_ENV=production -e DB_HOST=localhost --restart unless-stopped nginx:alpine"),e=V(()=>{const t=r.value.trim();if(!t)return"";try{return U(N(t))}catch{return o("errorParsingCommand","Error parsing command")}});return(t,m)=>{const c=d,u=g,p=h,_=k;return w(),y(_,null,{default:C(()=>[i("div",D,[a(c,{modelValue:l(r),"onUpdate:modelValue":m[0]||(m[0]=f=>$(r)?r.value=f:null),label:o("dockerRunCommand","docker run Command"),placeholder:"docker run -d --name myapp -p 8080:80 nginx:alpine",rows:4,monospace:""},null,8,["modelValue","label"]),i("div",E,[i("label",R,b(o("dockerComposeYml","docker-compose.yml")),1),a(u,{text:l(e)},null,8,["text"])]),a(p,{code:l(e),language:"yaml"},null,8,["code"])])]),_:1})}}});export{H as default};

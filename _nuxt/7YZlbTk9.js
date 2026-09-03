@@ -1,1 +1,0 @@
-import{g as r,c as o,r as n,ad as s,o as d}from"./CRQy-L-Q.js";const t=r({__name:"UiCard",props:{padding:{type:Boolean,default:!0}},setup(e){return(a,c)=>(d(),o("div",{class:s(["rounded-xl border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-800 shadow-sm",e.padding?"p-4":""])},[n(a.$slots,"default")],2))}}),p=Object.assign(t,{__name:"UiCard"});export{p as _};
